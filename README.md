@@ -1,6 +1,8 @@
 # gps-mapmatching
 GPS mapmatching using Leuven map matching algorithm 
 
+Ubuntu 18.04, python3
+
 ## pip install
 leuvenmapmatching
 
