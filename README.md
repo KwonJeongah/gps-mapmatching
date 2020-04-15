@@ -1,8 +1,9 @@
 # gps-mapmatching
-GPS map matching using Leuven map matching algorithm 
+GPS 데이터의 튀는 현상을 보정하기 위해 Leuven map matching 패키지를 이용하여 보정하였습니다.
 
-open street map 이용
+사용한 도로 네트워크 데이터는 open street map입니다.
 
+## 개발환경
 Ubuntu 18.04, python3
 
 ## pip install
